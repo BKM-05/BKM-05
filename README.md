@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="[https://github.com/BKM-05/BKM-05/raw/main/banner.gif](https://s4.ezgif.com/tmp/ezgif-427cf0bcefa922.gif)" alt="Custom Banner" width="100%" />
+  <img src="[[https://github.com/BKM-05/BKM-05/raw/main/banner.gif](https://s4.ezgif.com/tmp/ezgif-427cf0bcefa922.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3V1ODk1NXN2OHdzbzBrZWRrYTZ4Zjk3cTd1a3U2cnZiMXdsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnjxvrvonPCcDtdppt/giphy.gif)" alt="Custom Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhagyasree Kishore</h1>
