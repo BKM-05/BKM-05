@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/BKM-05/BKM-05/raw/main/banner.gif" alt="Custom Banner" width="100%" />
+  <img src="[https://github.com/BKM-05/BKM-05/raw/main/banner.gif](https://s4.ezgif.com/tmp/ezgif-427cf0bcefa922.gif)" alt="Custom Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhagyasree Kishore</h1>
