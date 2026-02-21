@@ -13,7 +13,7 @@
 </p>
 
 ---
-<img source = "https://github.com/user-attachments/assets/85353f6d-fb5b-449e-979c-ea9423e9cb45" width=200px height=200px>
+<img source = "https://github.com/user-attachments/assets/85353f6d-fb5b-449e-979c-ea9423e9cb45" width=200px height=200px />
 
 ## 🌱 About Me
 - 🌱 I’m currently learning **C for Arduino**
