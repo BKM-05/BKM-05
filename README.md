@@ -5,6 +5,7 @@
 
 <!-- Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Bhagyasree%20Kishore&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<img source = "https://github.com/user-attachments/assets/85353f6d-fb5b-449e-979c-ea9423e9cb45" width=200px height=600px >
 
 <h3 align="center">Figuring out what I'm dealing with 😵</h3>
 
